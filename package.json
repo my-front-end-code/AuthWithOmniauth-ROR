@@ -1,0 +1,5 @@
+{
+  "name": "AuthWithOmniauth",
+  "private": true,
+  "dependencies": {}
+}
